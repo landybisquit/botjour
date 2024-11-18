@@ -10,14 +10,14 @@ Using
 5. Open Terminal in the root folder, enter `npm i`. When the installation complete, enter `npm start`.
 6. Go to your bot and press start.
 
-**WARNING!** Don't remove `node_modules` folder. It contains fixed `telegram-media-group` module.
+**WARNING!** Don't remove `node_modules` folder. It contains fixed `telegraf-media-group` module.
 
 RU translation:
 1. Установите последние версии Node.JS и MongoDB community edition.
 2. Создайте нового бота в [Botfather](https://t.me/botfather). Создайте в корневой папке файл .env и вставьте следующую строку: `TOKEN=здесь-ваш-токен`.
 3. Если база данных не локальная, замените адрес в modules>db_create.mjs на адрес базы данных.
 4. Проверьте контактную информацию в index.mjs (function onMessageSwitcher).
-5. Откройте терминал в корневой папке, введите `npm i`. Когда установка завершится, введите `np start`.
+5. Откройте терминал в корневой папке, введите `npm i`. Когда установка завершится, введите `npm start`.
 6. Перейдите в бота и нажмите старт.
 
-**ВНИМАНИЕ** Не удаляйте папку `node_modules`. Она содержит исправленный модуль `telegram-media-group`.
+**ВНИМАНИЕ** Не удаляйте папку `node_modules`. Она содержит исправленный модуль `telegraf-media-group`.
